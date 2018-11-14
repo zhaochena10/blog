@@ -11,3 +11,12 @@ class User
 }
 $user = new User();
 $user->index();
+
+
+class Name
+{
+	public function list(){
+		
+	}
+
+}
